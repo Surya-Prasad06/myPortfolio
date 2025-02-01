@@ -11,7 +11,7 @@ const MycontactDetails = () => {
             
             <span className="font-medium text-lg">Email</span>
             <a
-              href="mailto:suryaprasadsadige007@gmail.com"
+              href="mailto:**your-mail-id**"
               className="ml-auto font-bold text-blue-300 hover:underline"
             >
               Mail Now
@@ -23,7 +23,7 @@ const MycontactDetails = () => {
             
             <span className="font-medium text-lg">LinkedIn</span>
             <a
-              href="https://www.linkedin.com/in/surya-prasad-sadige-8a8594280/"
+              href="**linkedin -rl**"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-auto text-blue-300 hover:underline"
@@ -36,7 +36,7 @@ const MycontactDetails = () => {
           <div className="flex items-center bg-white bg-opacity-20 p-4 rounded-lg shadow-md">
             
             <span className="font-medium text-lg">Phone</span>
-            <a href="tel:+916300851794" className="ml-auto text-blue-300 hover:underline">
+            <a href="tel:**your-phine-number**" className="ml-auto text-blue-300 hover:underline">
             Call Now
             </a>
           </div>
@@ -46,7 +46,7 @@ const MycontactDetails = () => {
             
             <span className="font-medium text-lg">GitHub</span>
             <a
-              href="https://github.com/Surya-Prasad06?tab=overview&from=2024-11-01&to=2024-11-30"
+              href="**your-github-url**"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-auto text-blue-300 hover:underline"
